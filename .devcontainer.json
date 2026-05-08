@@ -10,6 +10,5 @@
             { "mode": "auto" }
         ]
     },
-    "postCreateCommand": "export NG_CLI_ANALYTICS=ci && npm i -g @angular/cli && npm install",
-    "api_key":"sk-ant-api03-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    "postCreateCommand": "export NG_CLI_ANALYTICS=ci && npm i -g @angular/cli && npm install"
 }
