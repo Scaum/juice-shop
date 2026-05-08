@@ -2,6 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./build",
+    "api_key":"sk-ant-api03-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "allowJs": true,
     "module": "commonjs",
     "target": "es2018",
